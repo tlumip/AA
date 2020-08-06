@@ -9,5 +9,5 @@ The projects have the following dependencies:
 - pecas (PecasV2.10_rXXXX.jar) depends on
     - common-base
     - SimpleOrmProject
-    - Matrix Toolkits Java (https://github.com/fommil/matrix-toolkits-java)
-- Everything depends on Apache Log4j 1.2
+    - Matrix Toolkits Java (mtj.jar)
+- Everything depends on Apache Log4j 1.2 (log4j-1.2.9.jar)
