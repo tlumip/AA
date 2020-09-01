@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="dataset"/>
+	<classpathentry kind="src" path="extras/SimpleORMGenerate/src"/>
+	<classpathentry kind="src" path="sessionJdbc"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/logging-log4j-1.2.9"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.5.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="built/classes"/>
+</classpath>

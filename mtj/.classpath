@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="mtj.jar" sourcepath="mtjsrc.zip"/>
+	<classpathentry kind="lib" path="netlib-java-0.9.3.jar"/>
+	<classpathentry kind="lib" path="arpack_combined_all.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
