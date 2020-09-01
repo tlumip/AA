@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/java"/>
+	<classpathentry kind="src" path="/logging-log4j-1.2.9"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="config"/>
+	<classpathentry kind="lib" path="lib/dx.jar"/>
+	<classpathentry kind="lib" path="lib/dxml.jar"/>
+	<classpathentry kind="lib" path="lib/jds.jar"/>
+	<classpathentry kind="lib" path="lib/jxl.jar"/>
+	<classpathentry kind="lib" path="lib/mysql-connector-java-3.0.10-stable-bin.jar"/>
+	<classpathentry kind="lib" path="lib/or124.jar"/>
+	<classpathentry kind="lib" path="lib/xml4j.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/javadbf-0.4.0.jar"/>
+	<classpathentry kind="lib" path="lib/cajo.jar" sourcepath="C:/jim/util/svn_workspace/third-party/cajo/cajo.zip"/>
+	<classpathentry kind="lib" path="lib/transcadMatrix.jar"/>
+	<classpathentry kind="lib" path="lib/com.inro.modeller-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/logging-log4j-1.2.9/log4j-1.2.9.jar"/>
+	<classpathentry kind="lib" path="/omx-hba/release/omx.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
